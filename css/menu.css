@@ -1,0 +1,10 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+
+.btn:hover h1 {
+  color: bisque;
+}
+.container-fluid {
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6));
+}
